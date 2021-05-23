@@ -6,9 +6,9 @@ This is the place where I build stuff and break things :rofl: A student who is s
 - 💬 Ask me about anything related to Javascript/Python/Mongodb or React/Express/Flask
 - 📫 How to reach me: https://stevenferns.me
 - ⚡ Fun fact: I :heart: :pizza:
+- 🍖 Recently worked project: <a href="https://github.com/stark1996/TwitterRed">TwitterRed Repo</a>
 
 [![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=stark1996)](https://github.com/stark1996/stark1996.github.io)
 
 ### Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
-
-Recently worked project: <a href="https://github.com/stark1996/TwitterRed">TwitterRed Repo</a>
+## Dont just fork, like too. 😞 
