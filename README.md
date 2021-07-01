@@ -8,7 +8,9 @@ This is the place where I build stuff and break things :rofl: A student who is s
 - ⚡ Fun fact: I :heart: :pizza:
 - 🍖 Recently worked project: <a href="https://github.com/stark1996/TwitterRed">TwitterRed Repo</a>
 
-[![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=stark1996)](https://github.com/stark1996/stark1996.github.io)
+[![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=stark1996&count_private=true&show_icons=true&custom_title=Steven%27s%20Github%20Stats)](https://github.com/stark1996/stark1996.github.io)
+
+[![Steven's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=stark1996&layout=compact)](https://github.com/stark1996/stark1996.github.io)
 
 ### Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
 ## Dont just fork, like too. 😞 
