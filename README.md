@@ -4,7 +4,7 @@ This is the place where I build stuff and break things :rofl: A student who is s
 - 🔭 I’m currently working on React JS :wink:
 - 🌱 I’m currently learning UX Design
 - 💬 Ask me about anything related to Javascript/Python/Mongodb or React/Express/Flask
-- 📫 How to reach me: href="https://www.stevenferns.me">https://stevenferns.me</a>
+- 📫 How to reach me: <a href="https://www.stevenferns.me">https://stevenferns.me</a>
 - ⚡ Fun fact: I :heart: :pizza:
 - 🍖 Recently worked project: <a href="https://github.com/NevetsKuro/TwitterRed">TwitterRed Repo</a>
 
