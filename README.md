@@ -6,7 +6,7 @@ This is the place where I build stuff and break things :rofl: A student who is s
 - 💬 Ask me about anything related to Javascript/Python/Mongodb or React/Express/Flask
 - 📫 How to reach me: <a href="https://www.stevenferns.me">https://stevenferns.me</a>
 - ⚡ Fun fact: I :heart: :pizza:
-- 🍖 Recently worked project: <a href="https://github.com/NevetsKuro/TwitterRed">TwitterRed Repo</a>
+- 🍖 Recently worked project: <a href="https://github.com/NevetsKuro/HuntMyParadise">HuntMyParadise Repo</a>
 
 [![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=NevetsKuro&count_private=true&show_icons=true&custom_title=Steven%27s%20Github%20Stats)](https://github.com/NevetsKuro/NevetsKuro.github.io)
 
