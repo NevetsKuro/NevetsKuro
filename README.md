@@ -13,4 +13,4 @@ This is the place where I build stuff and break things :rofl: A student who is s
 [![Steven's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NevetsKuro&layout=compact)](https://github.com/NevetsKuro/NevetsKuro.github.io)
 
 ### Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
-## Dont just fork, like too. 😞 
+## Dont just fork, follow/star too. 😞 
