@@ -4,7 +4,7 @@ This is the place where I build stuff and break things :rofl: A junior software 
 - 🔭 I’m currently working on React JS, Vue, Node technologies :wink:
 - 🌱 I’m currently learning about Backend technologies 🤓
 - 💬 Ask me about anything related to Javascript/Python/Mongodb or React/Vue/Express/Flask
-- 📫 How to reach me: <a href="https://stevenferns.in/">https://stevenferns.in/</a>
+- 📫 How to reach me: <a href="steven-portfolio.vercel.app">https://stevenferns.in/</a>
 - ⚡ Fun fact: I :heart: :pizza:
 
 ### Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
